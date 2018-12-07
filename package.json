@@ -39,11 +39,11 @@
   "main": "./lib/passport-adobe-oauth2",
   "dependencies": {
     "passport-oauth": "1.0.x",
-    "pkginfo": "0.2.x"
+    "pkginfo": "~0.4.1"
   },
   "devDependencies": {
-    "eslint": "^4.18.1",
-    "jasmine": "^2.8.0"
+    "eslint": "^5.9.0",
+    "jasmine": "^3.3.1"
   },
   "scripts": {
     "test": "npm run jasmine",
