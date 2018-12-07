@@ -1,5 +1,7 @@
 # Passport-Adobe-OAuth2
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/adobe/passport-adobe-oauth2.svg)](https://greenkeeper.io/)
+
 [Passport](http://passportjs.org/) strategy for authenticating users with an AdobeId using the OAuth 2.0 API.
 
 This module lets you authenticate using Adobe Identity Management Services (IMS) in your Node.js applications.
