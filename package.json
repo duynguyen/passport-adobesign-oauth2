@@ -1,10 +1,11 @@
 {
-  "name": "passport-adobe-oauth2",
-  "version": "1.0.1",
-  "description": "Adobe OAuth 2.0 authentication strategy for Passport.",
+  "name": "passport-adobesign-oauth2",
+  "version": "0.0.1",
+  "description": "Adobe Sign OAuth 2.0 authentication strategy for Passport.",
   "keywords": [
     "passport",
     "adobe",
+    "sign",
     "oauth2",
     "auth",
     "authentication",
@@ -36,7 +37,7 @@
     }
   ],
   "license": "Apache-2.0",
-  "main": "./lib/passport-adobe-oauth2",
+  "main": "./lib/passport-adobesign-oauth2",
   "dependencies": {
     "passport-oauth": "1.0.x",
     "pkginfo": "0.2.x"
